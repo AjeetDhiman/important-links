@@ -1,0 +1,18 @@
+Styling Table ---- https://piccalil.li/blog/styling-tables-the-modern-css-way?ref=dailydev
+https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253
+Button and Anchor Animation ---- https://cssfx.netlify.app/
+HTML Elements ---- https://uiverse.io/
+https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c?ref=dailydev ====== List Of best Tools
+OPEN AI & UI TOOLS ---- https://johnrush.me/ ======= List Of best Tools
+nextjs starter kit ---- https://nextjsstarter.com/
+Image Placeholders ===== https://lorem.space/
+https://frontendfoc.us/issues/651?ref=dailydev ======= Site Optimzation Tools & TEchniques
+https://dev.to/composiodev/13-hidden-open-source-libraries-to-become-an-ai-wizard-4ng9?ref=dailydev ========= Animations
+https://websitehurdles.com/best-javascript-youtube-channels/
+https://mailchi.mp/webtoolsweekly/web-tools-575?ref=dailydev ================= Frontend Tools
+https://www.freecodecamp.org/news/learn-linux-for-beginners-book-basic-to-advanced/?ref=dailydev   ============ Linux Commands
+https://blog.openreplay.com/creating-custom-cursors-for-better-ux/?ref=dailydev  ================== Custom cursors
+https://laravel-news.com/tailwind-css-it-looks-awful-and-it-works
+https://www.webdesignerdepot.com/2021/01/8-easy-ways-to-improve-your-website-typography-in-under-30-minutes/?ref=dailydev  - Best practise for typography
+https://medium.com/@sumsourabh14/how-i-use-chatgpt-as-a-frontend-developer-5-ways-0494d6f1ab54  =================== ChatGPT prompt for JSON and Other things made easy
+https://developer.chrome.com/blog/css-relative-color-syntax   =================== Relative Color Codes Maker Using CSS
